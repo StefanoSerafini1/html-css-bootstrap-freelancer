@@ -1,4 +1,6 @@
-
+body{
+  font-family: 'Montserrat' , sans-serif;
+}
 @media all and (min-width: 1200px) {
     .container {
         width: 900px;
@@ -85,7 +87,10 @@
 .imgtesto p {
     padding-bottom: 40px;
 }
-
+.imgtesto h1{
+    text-transform: uppercase;
+    font-weight: bold;
+}
 /* parte portfolio con overlay */
 
 .iconastella2 {
