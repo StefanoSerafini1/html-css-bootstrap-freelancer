@@ -170,6 +170,7 @@ body{
 
 .about h3 {
     text-transform: uppercase;
+    font-weight: bold;
     font-size: 50px;
     margin-top: 100px;
 }
@@ -197,6 +198,7 @@ body{
 /* parte dei contatti */
 .contatti h4 {
     text-transform: uppercase;
+    font-weight: bold;
     font-size: 50px;
     margin-top: 100px;
 }
