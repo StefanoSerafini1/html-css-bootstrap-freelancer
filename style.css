@@ -256,7 +256,23 @@ footer p .bottone:hover {
     background-color: white;
     color: black;
 }
+footer a{
+  color: green;
+}
 
 footer a:hover{
   color: green;
+}
+
+/* parte footer finale con copiright */
+
+.copyright {
+    background-color: #1a252f;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.copyright p {
+    margin-bottom: 0px;
 }
