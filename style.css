@@ -1,7 +1,4 @@
-.box{
-background-color: green;
 
-}
 @media all and (min-width: 1200px) {
     .container {
         width: 900px;
@@ -117,7 +114,7 @@ background-color: green;
 .iconastella2:after {
   left: 45px;
 }
-
+/* parte portfolio on prova di overlay con il + */
 
 .portfolio h2 {
     text-transform: uppercase;
@@ -133,12 +130,12 @@ background-color: green;
     position: absolute;
     top: 0;
     bottom: 0;
-    border-radius: 6px;
+    border-radius: 5%;
 }
 
 .overlay i {
     color: white;
-    font-size: 90px;
+    font-size: 80px;
     top: 50%;
     position: relative;
     transform: translateY(-50%);
@@ -150,12 +147,13 @@ background-color: green;
 
 .portfolio img {
     width:100%;
-    border-radius: 6px;
+    border-radius: 5%;
 }
 
 .loghi {
     margin-top: 15px;
     position: relative;
+    margin-bottom: 50px;
 }
 
 /* parte about con button */
